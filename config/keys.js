@@ -1,0 +1,12 @@
+module.exports={
+  google:{
+    clientID:'256783775907-hg2q7uinqiaqi7i1u3dbugb13g1b9qda.apps.googleusercontent.com',
+    clientSecret:'OQU6ltjhS_SxtGL4IbbHOnhE'
+  },
+  mongodb:{
+    dbURI:'mongodb://alaa:alaa123@ds163700.mlab.com:63700/auth-app'
+  },
+  session:{
+    cookieKey:'7sbyallahwn3malwakeel'
+  }
+};
